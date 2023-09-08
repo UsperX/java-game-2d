@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "java-game-2d/src/main",
+        "java-game-2d/src",
+        "java-game-2d/res/player"
+    ]
+}
